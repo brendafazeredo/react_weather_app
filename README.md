@@ -1,70 +1,12 @@
-# Getting Started with Create React App
+<h1>React Weather App</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p>WeatherApp is a simple and elegant weather application built with React. It allows you to check the current weather conditions for any city around the world. With an intuitive user interface and real-time weather data from OpenWeatherMap, WeatherApp provides you with essential weather information at your fingertips.</p>
 
-## Available Scripts
+**Features**
 
-In the project directory, you can run:
+<p>Real-time weather updates for any city. <br>
+Displays temperature, humidity, and wind speed information. <br>
+Beautiful weather icons to represent the current weather conditions. <br>
+Easy-to-use search functionality to quickly find weather for a specific location. <br></p>
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![WeatherApp Screenshot](https://lh3.googleusercontent.com/pw/ADCreHfjqnoCmi7SpTgYrJnVcGBZOXopXr1-hR6gkuOS05cD3U485OMhO9zuTUcLZ5q5AzX72vnRd1E4yEluFTSp0CXiYbnyl-EbAOJdHmixkEDGYE5IzrQFLWFgVT2SXXFWFYjMF-X0OgkaKkWnt5Gwhd2bt5NlqfrGmzcfG-Dj-1XYs7Pf9zLw7V9qE9bsdo18OJLtuyoRujOxGK2UAG14ZfwL3LtJy50SW1Sz-UoMHuMdbVcV2vBWtcKqI2d9oESizzqmeLpsicFdvYyFbdJx9axZPD9l3QPWpunhXAkpQ0l7RJ45BRk696VNdjiA8uwlpGiENUnRC19gpvE8nr6NlsmNXjsxXgnJiKF9u_B7r5EqVCwvFCJpTPRRV1n1Dta2je3Wcyowvaf0z8sexLSB28qF6d6EKaB-Jsy5Fz0Do5IIx5Z9ddZwqNVXgzQonJvCwncgFrzTXlw3Sl9ltiPX6dVlBqgbPKOECoaYiJ2D-XNfpAcwXarNHPLredI5LvwXkH3oD3kzwwmTOpZ_imEfLbJgJrQVln_LO4NCazTZuAWq_yIBlWh_1SCIS51XJCkRzAEog0zbHjD05fyXKw3hCuVErTgoKL2RxelAivr_rBoBo1iycJ-Q7SsnM3_1Bs5m6uhy9hmy9KYd1CqwvZzvisHTK2ByA6XkqPT5ZI6R3kYbSkYTbDIucFB5VCR0JG8F_YV5AGbljdCezYVcsUWR-PnSuBVswcn5YB-_sg6b0KqZ8_nn7AWDqgYVEqVan1ZpxJIAL-eoF8fPrOPUIJx9QNWJtPKEuO1nkbmvqWl5HjtxWdClIslQoHeEpHLjcJ--SVy3u54Ueq8Iw6dB2wKyTVO-mSeNkRXAbd3Ylpoz7Txy5_upF6qNodBVJSm2oew7OiLb4dIj9jjT0cz3yEw5-ZWsb7M_03S3_ZFjlGLF8a1M7scJGCQj34rAOgSCdA=w2880-h1694-s-no?authuser=0)
